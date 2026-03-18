@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR11647692_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647692_1_fastqc.zip
+FastQC	all_sections	SRR11647692_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647692_2_fastqc.zip
+FastQC	all_sections	SRR11647693_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647693_1_fastqc.zip
+FastQC	all_sections	SRR11647693_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647693_2_fastqc.zip
+FastQC	all_sections	SRR11647694_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647694_1_fastqc.zip
+FastQC	all_sections	SRR11647694_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647694_2_fastqc.zip
+FastQC	all_sections	SRR11647702_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647702_1_fastqc.zip
+FastQC	all_sections	SRR11647702_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647702_2_fastqc.zip
+FastQC	all_sections	SRR11647703_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647703_1_fastqc.zip
+FastQC	all_sections	SRR11647703_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647703_2_fastqc.zip
+FastQC	all_sections	SRR11647704_1	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647704_1_fastqc.zip
+FastQC	all_sections	SRR11647704_2	/home/genetics/HW1/raw_data/fastqc_raw/SRR11647704_2_fastqc.zip

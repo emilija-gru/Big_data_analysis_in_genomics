@@ -1,0 +1,48 @@
+# Raw / processed sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+
+# Reference genome / annotations / indexes
+*.fa
+*.fasta
+*.fai
+*.gtf
+*.gtf.gz
+*.gff
+*.gff3
+*.ht2
+
+# Large outputs / temporary files
+*.log
+*.tmp
+*.out
+*.err
+
+# Folders with non-code data
+references/
+raw_data/
+duplicates/
+
+# per-sample outputs
+clipping_profile/*.xls
+clipping_profile/*R1*.pdf
+clipping_profile/*R2*.pdf
+clipping_profile/bam_statistics.txt
+*.clipping_profile.r
+
+# junction annotation outputs
+annotated_junctions/*.bed
+annotated_junctions/*.xls
+annotated_junctions/*.junction*
+
+# gene body coverage outputs
+gene_body_cov/*.txt
+
+# inner distance
+inner_distance/*.txt
+inner_distance/*freq*

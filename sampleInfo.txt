@@ -1,0 +1,7 @@
+sample condition
+SRR11647692 normal
+SRR11647693 normal
+SRR11647694 normal
+SRR11647702 tumor
+SRR11647703 tumor
+SRR11647704 tumor
