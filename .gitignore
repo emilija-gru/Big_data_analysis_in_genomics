@@ -46,3 +46,14 @@ gene_body_cov/*.txt
 # inner distance
 inner_distance/*.txt
 inner_distance/*freq*
+
+# HW2 large files
+HW2/raw_data/
+HW2/methylation/
+
+*.bam
+*.bai
+*.bedGraph
+*.fastq
+*.fastq.gz
+*.RData
